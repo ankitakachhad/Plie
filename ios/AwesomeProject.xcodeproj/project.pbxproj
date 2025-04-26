@@ -11,6 +11,15 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		C20B881BB7DB4026AF648C04 /* GothicA1-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 21C78878CF30468AAFE50870 /* GothicA1-Black.ttf */; };
+		20F31DDE82444034BAC239A7 /* GothicA1-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 47F1FF0F478E43C6BA81CAB2 /* GothicA1-Bold.ttf */; };
+		C4CAB4F0A3BB4B05B2DD4231 /* GothicA1-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1C2CC017CE5449B0B5D12DBE /* GothicA1-ExtraBold.ttf */; };
+		96C2B87200B64E7480A6AE6D /* GothicA1-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 75420812947541D1ABB455E8 /* GothicA1-ExtraLight.ttf */; };
+		2576EC22C40146818CE90EAA /* GothicA1-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3759FBA574945F2B1339389 /* GothicA1-Light.ttf */; };
+		A77DFDEBD10341E3AF8A442B /* GothicA1-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6F62616430A649F09EBF14AB /* GothicA1-Medium.ttf */; };
+		6ABB0580ED3740D986B2020B /* GothicA1-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 173A77DC168F4A908BE1E0EF /* GothicA1-Regular.ttf */; };
+		86BEF80578AA4EEDA8FC4B96 /* GothicA1-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F219D66EF276467CBE078663 /* GothicA1-SemiBold.ttf */; };
+		38479F054FB24563AC0B09C4 /* GothicA1-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 82D1349615F24A459886C5AE /* GothicA1-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +44,15 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = AwesomeProject/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AwesomeProject/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		21C78878CF30468AAFE50870 /* GothicA1-Black.ttf */ = {isa = PBXFileReference; name = "GothicA1-Black.ttf"; path = "../src/assets/fonts/GothicA1-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		47F1FF0F478E43C6BA81CAB2 /* GothicA1-Bold.ttf */ = {isa = PBXFileReference; name = "GothicA1-Bold.ttf"; path = "../src/assets/fonts/GothicA1-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1C2CC017CE5449B0B5D12DBE /* GothicA1-ExtraBold.ttf */ = {isa = PBXFileReference; name = "GothicA1-ExtraBold.ttf"; path = "../src/assets/fonts/GothicA1-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		75420812947541D1ABB455E8 /* GothicA1-ExtraLight.ttf */ = {isa = PBXFileReference; name = "GothicA1-ExtraLight.ttf"; path = "../src/assets/fonts/GothicA1-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B3759FBA574945F2B1339389 /* GothicA1-Light.ttf */ = {isa = PBXFileReference; name = "GothicA1-Light.ttf"; path = "../src/assets/fonts/GothicA1-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6F62616430A649F09EBF14AB /* GothicA1-Medium.ttf */ = {isa = PBXFileReference; name = "GothicA1-Medium.ttf"; path = "../src/assets/fonts/GothicA1-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		173A77DC168F4A908BE1E0EF /* GothicA1-Regular.ttf */ = {isa = PBXFileReference; name = "GothicA1-Regular.ttf"; path = "../src/assets/fonts/GothicA1-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F219D66EF276467CBE078663 /* GothicA1-SemiBold.ttf */ = {isa = PBXFileReference; name = "GothicA1-SemiBold.ttf"; path = "../src/assets/fonts/GothicA1-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		82D1349615F24A459886C5AE /* GothicA1-Thin.ttf */ = {isa = PBXFileReference; name = "GothicA1-Thin.ttf"; path = "../src/assets/fonts/GothicA1-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +111,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				3D7819931DB844A186DB6F58 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -115,6 +134,23 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		3D7819931DB844A186DB6F58 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				21C78878CF30468AAFE50870 /* GothicA1-Black.ttf */,
+				47F1FF0F478E43C6BA81CAB2 /* GothicA1-Bold.ttf */,
+				1C2CC017CE5449B0B5D12DBE /* GothicA1-ExtraBold.ttf */,
+				75420812947541D1ABB455E8 /* GothicA1-ExtraLight.ttf */,
+				B3759FBA574945F2B1339389 /* GothicA1-Light.ttf */,
+				6F62616430A649F09EBF14AB /* GothicA1-Medium.ttf */,
+				173A77DC168F4A908BE1E0EF /* GothicA1-Regular.ttf */,
+				F219D66EF276467CBE078663 /* GothicA1-SemiBold.ttf */,
+				82D1349615F24A459886C5AE /* GothicA1-Thin.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -185,6 +221,15 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				C20B881BB7DB4026AF648C04 /* GothicA1-Black.ttf in Resources */,
+				20F31DDE82444034BAC239A7 /* GothicA1-Bold.ttf in Resources */,
+				C4CAB4F0A3BB4B05B2DD4231 /* GothicA1-ExtraBold.ttf in Resources */,
+				96C2B87200B64E7480A6AE6D /* GothicA1-ExtraLight.ttf in Resources */,
+				2576EC22C40146818CE90EAA /* GothicA1-Light.ttf in Resources */,
+				A77DFDEBD10341E3AF8A442B /* GothicA1-Medium.ttf in Resources */,
+				6ABB0580ED3740D986B2020B /* GothicA1-Regular.ttf in Resources */,
+				86BEF80578AA4EEDA8FC4B96 /* GothicA1-SemiBold.ttf in Resources */,
+				38479F054FB24563AC0B09C4 /* GothicA1-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
